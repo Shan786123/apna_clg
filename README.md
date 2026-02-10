@@ -1,4 +1,4 @@
 # apna_clg
 <br>
-Author - Khalid Khan
+Author - Khalid Khan(bhai )
 This is the demo 
